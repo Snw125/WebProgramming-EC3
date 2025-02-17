@@ -15,7 +15,6 @@ $(document).ready(function() {
     let slideshowInterval;
   
     $("#startButton").click(function() {
-        console.log("yippee");
         startSlideshow();
     });
   
